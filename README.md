@@ -1,7 +1,7 @@
 # tm-teste-full-stack
 Teste para vaga Desenvolvedor Full Stack - Tokio Marine
 
-* Link para o [repositório original utilizado para desenvolvimento](https://github.com/pedronic/tm-teste-full-stack/settings)
+* Link para o [repositório original utilizado para desenvolvimento](https://github.com/pedronic/tm-teste-full-stack)
 ---
 ---
 
